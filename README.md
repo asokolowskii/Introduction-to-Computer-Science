@@ -91,7 +91,7 @@ According to the course description sheet:
 
 If you want to discuss algorithms, collaborate, or share feedback:
 
-- 📧 Email: [your.email@domain.com]  
+- 📧 Email: [asokolowsk@student.agh.edu.pl]  
 - 🌐 GitHub: [github.com/asokolowskii](https://github.com/asokolowskii)
 
 ---
